@@ -1,0 +1,10 @@
+image:
+    repository: registry.crowdstrike.com/kubernetes_protection/kpagent
+    tag: 0.2079.0
+crowdstrikeConfig:
+    clientID: "e3977d222a884a769614063d9755f627"
+    clientSecret: "rOXp5FVvbW84ZgEz1hGTJBqR29ij36adto0CenQ7"
+    clusterName: TestingCluster01
+    env: us-1
+    cid: 264401e67eb64c978bb543747b0b4f7d
+    dockerAPIToken: cmVmdGtuOjAxOjAwMDAwMDAwMDA6WWI3WHdjaGFLZGtLZkREQW5YbFRtU1VKS0Fh
